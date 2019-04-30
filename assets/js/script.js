@@ -9,7 +9,7 @@ $(document).ready(function() {
 	$("#lightblue").click(function(){
 		$("#bottom").css('background-color', '#62BDD8')
  		$("#photo1").attr('src','assets/images/lightblue1.JPG')
-		$("#photo2").attr('src','assets/images/lightblue2.jpg')
+		$("#photo2").attr('src','assets/images/lightblue2.JPG')
 		$("#photo3").attr('src','assets/images/lightblue3.JPG')
 		$("#photo4").attr('src','assets/images/lightblue4.JPG')
 		$("#photoheader1").text('sky');
